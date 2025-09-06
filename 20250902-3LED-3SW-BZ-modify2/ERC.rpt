@@ -1,0 +1,14 @@
+ERC レポート (2025-08-19T21:10:05+0900, エンコーディング UTF8)
+
+***** シート /
+[lib_symbol_issues]: シンボル 'SW_MEC_5E' はライブラリ 'Switch' で変更されています
+    ; warning
+    @(170.1800 mm, 86.3600 mm): シンボル SW2 [SW_MEC_5E]
+[lib_symbol_issues]: シンボル 'SW_MEC_5E' はライブラリ 'Switch' で変更されています
+    ; warning
+    @(148.5900 mm, 87.6300 mm): シンボル SW1 [SW_MEC_5E]
+[lib_symbol_issues]: シンボル 'SW_MEC_5E' はライブラリ 'Switch' で変更されています
+    ; warning
+    @(195.5800 mm, 87.6300 mm): シンボル SW3 [SW_MEC_5E]
+
+ ** ERC メッセージ: 3  エラー 0  警告 3
